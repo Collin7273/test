@@ -6,10 +6,7 @@ public class Account {
 	private String name;
 
 	
-	public Account(String name, double balance) {
-		this.name = name;
-		this.balance = balance;
-	}
+	
 
 
 	// A "getter" method that simply returns the balance.
